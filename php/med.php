@@ -28,7 +28,7 @@ kgautam@clabsql:~/public_html> cat med.php
       ?>  
 
                
-        <a href = "php/medlist.php"> Show Medicine List </a>
+        <a href = "medlist.php"> Show Medicine List </a>
        
      
    </body>

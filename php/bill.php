@@ -24,7 +24,7 @@
       ?>  
 
                
-        <a href = "php/billlist.php"> Show Bill List </a>
+        <a href = "billlist.php"> Show Bill List </a>
        
      
    </body>

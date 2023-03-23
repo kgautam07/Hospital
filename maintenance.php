@@ -5,7 +5,7 @@
     session_start();
     if(!isset($_SESSION['user']))
     {
-        header("location:./login/login.php");
+        header("location:login/login.php");
     }
 ?>
 
@@ -44,11 +44,11 @@
           if(isset($_SESSION['user']))
           {
               echo "<h2> Logged in as ". $_SESSION['user'] . "</h2>";
-              echo '<a href="../login/logout.php?logout=true">Logout</a>';
+              echo '<a href="login/logout.php?logout=true">Logout</a>';
           }
           ?>
-          <h1>Maintenance Pages</h1>
-          <p>It is recommended to enter the data in the order below</p>
+          <h1>Maintenance Page</h1>
+          
 
           <ul>
             <li><a href ="adds/addbill.html"> Add Bill</a></li>

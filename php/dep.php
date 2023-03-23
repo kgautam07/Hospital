@@ -31,7 +31,7 @@
           ?>  
 
                
-        <a href = "php/deplist.php"> Show Bill List </a>
+        <a href = "deplist.php"> Show Bill List </a>
        
      
     <body>

@@ -25,7 +25,7 @@
         ?>  
 
                
-        <a href = "php/mrlist.php"> Show Report List </a>
+        <a href = "mrlist.php"> Show Report List </a>
        
      
    </body>

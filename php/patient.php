@@ -26,7 +26,7 @@
             
         ?>  
 
-    <a href = "php/patientlist.php"> Show Patient List</a>
+    <a href = "patientlist.php"> Show Patient List</a>
 
         </body>
 
