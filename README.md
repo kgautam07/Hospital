@@ -33,11 +33,12 @@ Any data can be entered through the maintenance page
 
 ![Screenshot from 2023-03-23 22-02-01](https://user-images.githubusercontent.com/96077005/227374392-dbc16cba-3fec-4d1a-b86f-57a2e52e2dd7.png)
 ![Screenshot from 2023-03-23 22-02-35](https://user-images.githubusercontent.com/96077005/227374461-99efad20-4e64-4a17-9c57-3b7fd68f880a.png)
-Retrieves and displays the detaisl of users from database
+Retrieves and displays the details of users from database
 
 
+![image](https://user-images.githubusercontent.com/96077005/227375646-b39ffb7c-67ef-4549-92a0-0bfc1fdfb369.png)
 
- file:///home/k/Pictures/Screenshots/Screenshot%20from%202023-03-23%2022-03-09.png
+
  Search page and more
 
 
