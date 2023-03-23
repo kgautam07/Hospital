@@ -14,13 +14,27 @@ Contact Page
 
 ![image](https://user-images.githubusercontent.com/96077005/227373479-2640b5f4-deff-4ceb-8080-634ce3054d33.png)
 Login Page
+
+
+
+
 ![image](https://user-images.githubusercontent.com/96077005/227373980-80293651-e77a-4525-82f2-7c5d54140db9.png)
 After login goes to the maintenance page
+
+
+
+
 ![image](https://user-images.githubusercontent.com/96077005/227374161-6f58d849-58f9-422c-90b3-835ebcb3e5b5.png)
 Any data can be entered through the maintenance page
+
+
+
 ![Screenshot from 2023-03-23 22-02-01](https://user-images.githubusercontent.com/96077005/227374392-dbc16cba-3fec-4d1a-b86f-57a2e52e2dd7.png)
 ![Screenshot from 2023-03-23 22-02-35](https://user-images.githubusercontent.com/96077005/227374461-99efad20-4e64-4a17-9c57-3b7fd68f880a.png)
-Displays the details
+Retrieves and displays the detaisl of users from database
+
+
+
  file:///home/k/Pictures/Screenshots/Screenshot%20from%202023-03-23%2022-03-09.png
  Search page and more
 
