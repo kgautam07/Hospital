@@ -67,16 +67,16 @@
         <div class = "brand"><h1>Simana Hospital</h1></div>
         <div class = "social-icon">
           <div class = "social-item">
-            <a href = ""> <img src = "https://img.icons8.com/ios-glyphs/256/facebook-f.png"></a>          
+            <a href = "https://www.facebook.com"> <img src = "https://img.icons8.com/ios-glyphs/256/facebook-f.png"></a>          
           </div>
           <div class = "social-item">
-            <a href = ""> <img src = "https://img.icons8.com/ios-glyphs/256/instagram-new.png"></a>          
+            <a href = "https://www.instagram.com"> <img src = "https://img.icons8.com/ios-glyphs/256/instagram-new.png"></a>          
           </div>
           <div class = "social-item">
-            <a href = ""> <img src = "https://img.icons8.com/ios-filled/256/twitter.png"></a>          
+            <a href = "https://www.twitter.com"> <img src = "https://img.icons8.com/ios-filled/256/twitter.png"></a>          
           </div>
           <div class = "social-item">
-            <a href = "https://www.youtube.com/channel/UCsHA50ZYecqGOzXB-A_aoyw"> <img src = "https://img.icons8.com/ios-glyphs/256/youtube-play.png"></a>          
+            <a href = "https://www.youtube.com"> <img src = "https://img.icons8.com/ios-glyphs/256/youtube-play.png"></a>          
           </div>
         </div>
         <p>Copyright &copy; Simana Hospital. All rights reserved</p>
